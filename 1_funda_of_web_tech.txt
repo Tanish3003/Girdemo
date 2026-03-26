@@ -1,0 +1,110 @@
+_funda_of_web_tech.txt
+  MEAN Stack
+     >> M: MongoDB(Database)
+     >> E: ExpressJs(Backend)
+     >> A: Angular(Frontend)
+     >> N: NodeJs(Backend)
+
+  Three pillars 
+     >> HTML (Hyper Text Markup Language)
+     >> CSS (Cascading Style Sheets)
+     >> JS (Java Script)
+
+  Other stacks 
+     >> MEAN, MERN, Java Full Stack
+
+  Web Dev 
+     >> Building/Developers Team
+     >> Testing Team (Mannual testers/ Automated testers) 
+     >> Hosting Team (DevOps Team)
+     >> Maintainence Team/Support Team
+
+  SDLC (Software Devlopment Life Cycle):
+     >> Waterfall Model
+     >> Agile Model
+     >> Spiral Model
+     >> Iterative Model
+     >> Incremental Model
+     >> V Shapped Model
+     >> RAD (Rapid Application Devlopment) Model
+
+  URL (Uniform Resource Locator)
+     https://www.instagram.com/
+     https://www.education.tanishcademy.edu/FullStack
+
+
+     https : Protocol 
+     tanishcademy : Server/Domain Name
+     education : Sub-Domain
+     .edu : TLD (Top Level Domain)
+     FullStack : Path/Location
+
+
+   Protocol:
+       >> Set of rules/instructions
+           http  : Hyper Text Transfer Protocol
+           https : Hyper Text Transfer Protocol Secure
+           tcp   : Transmission CControl Protocol
+           udp   : User Datagram Protocol
+           smtp  : Simple Mail Transfer Protocol
+           ftp   : File Transfer Protocol
+           ip    : Internet Protocol (ipV4 & ipV6) 
+
+
+                >> Client/ Web page --------(uName & uPwd)-----> Instagram Server
+                >> SSL (Secure Socket Layer)Certification
+
+
+
+   Server/Domain Name:
+       >> Unique Identification
+            >> Eg: Google, Amazon
+
+
+   Sub-Domain Name:
+        >> gMeet
+        >> gmaps
+        >> gDrive
+        >> Gmail
+        >> gPhotos
+        >> gFiles
+        >> gPay
+
+        >>Amazon Shopping
+        >>AWS
+
+        
+
+   TLD (Top Level Domain):
+      Amazon.in (india)
+      Amazon.com (commercial)
+      Amazon.org (organisation)
+      Amazon.edu(education)
+      Amazon.uk(United Kingdom)
+
+
+
+ offline editors
+    >> Notepad
+    >> Notepad++
+    >> Subline
+    >> Open Brackets
+    >> VS Code
+
+ Online editors 
+    >> codespace
+    >> CodeSandbox 
+
+
+   
+
+
+
+
+
+
+
+ 
+
+
+      
